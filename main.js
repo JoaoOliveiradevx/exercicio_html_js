@@ -19,7 +19,7 @@ form.addEventListener('submit', function(e){
         campoB.value = ''
 
     } else {
-        alert('Ta incompleto!')
+        alert('Formulário inválido!')
     }
 
 })
